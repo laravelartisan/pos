@@ -1,0 +1,12 @@
+{
+  "/mix.js": "/mix.js",
+  "/css/backend.css": "/css/backend.css",
+  "/css/backend.min.css": "/css/backend.min.css",
+  "/js/backend.min.js": "/js/backend.min.js",
+  "/js/app.js": "/js/app.js",
+  "/js/app-backend.js": "/js/app-backend.js",
+  "/js/dashboard.js": "/js/dashboard.js",
+  "/css/frontend.min.css": "/css/frontend.min.css",
+  "/js/app-frontend.js": "/js/app-frontend.js",
+  "/js/app-admin.js": "/js/app-admin.js"
+}
